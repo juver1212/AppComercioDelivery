@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Innovation Techology Delivery</string>
+
+    <string name="login">Iniciar Sesión</string>
+    <string name="mobile">Numero teléfono</string>
+    <string name="password">clave</string>
+
+
+    <string name="msg_privacy_terms">Al iniciar sesión, acepta nuestros Términos &amp; Condiciones y política de privacidad</string>
+    <string name="privacy_policy">política de privacidad</string>
+    <string name="terms_conditions">Términos &amp; Condiciones</string>
+    <!--    Note : If you are changeing privacy policy and terms condition string then the word which you use in 'privacy_policy'
+                and 'terms_conditions' these two words should be same in 'msg_privacy_terms' string.-->
+
+    <string name="forgottext">Se te olvido tu clave ?</string>S
+    <string name="home">Home</string>
+    <string name="profile">Perfil</string>
+    <string name="notification">Notificacion</string>
+    <string name="logout">Cerrar sesion</string>
+    <string name="wallet_balance">Balence de la billetera</string>
+    <string name="is_login">iniciar ?</string>
+    <string name="notifications">Notification</string>
+    <string name="drawer_open">abrir</string>
+    <string name="drawer_close">cerrar</string>
+    <string name="orders">orden</string>
+    <string name="balance">Balance</string>
+    <string name="bonus">Bonus %</string>
+    <string name="customer_name">Nombre del cliente</string>
+    <string name="mobile_no">Nuemro movil</string>
+    <string name="order_no">Nro pedido</string>
+    <string name="order_date">Fecha de orden</string>
+    <string name="status">Entregado</string>
+    <string name="order_method">Metodo de pedido</string>
+    <string name="name">Nombre</string>
+    <string name="address">Direccion</string>
+    <string name="update">Actualizar</string>
+    <string name="old_password">Calve antigua</string>
+    <string name="new_password">Nueva clave</string>
+    <string name="confirm_new_password">Confirmar nueva clave</string>
+    <string name="please_click_back_again_to_exit">Haga clic en ATRAS nuevamente para salir</string>
+    <string name="name_required">Nombre requerido !</string>
+    <string name="address_required">Direccion requerida!</string>
+    <string name="changepsw">Cambiar clave ?</string>
+    <string name="change_password">Cambiar clave</string>
+    <string name="old_password_required">Clave antigua requerida!</string>
+    <string name="new_password_required">Nueva clave requerida!</string>
+    <string name="confirm_password_required">Confirmar clave requerido!</string>
+    <string name="password_required">Clave requerida!</string>
+    <string name="enter_valid_mobile_number">Ingrese un numero de movil valido</string>
+    <string name="enter_mobile_number">Introduzca el numero movil</string>
+    <string name="wallet_history">Historal de la billetera</string>
+    <string name="get_direction">\u0020\u0020Get Direction\u0020\u0020</string>
+    <string name="product_detail">Order No. :\u0020</string>
+
+    <string name="items">Cantidad de articulos :</string>
+    <string name="promo_applied">Descuento PromoCode :</string>
+    <string name="delivery_charge">Gastos de envio :</string>
+    <string name="wallet_balance1">Saldo de la billetera :</string>
+    <string name="final_total">Total final : </string>
+    <string name="total">Total : </string>
+    <string name="tax">Impuesto : </string>
+    <string name="discount">Descuento : </string>
+
+    <string name="item">Articulo</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="qty">Cantidad</string>
+    <string name="price">Precio</string>
+    <string name="logout_msg">Estas seguro quieres cerrar sesion?</string>
+    <string name="change_order_status_msg">¿Está seguro de que desea cambiar el estado del pedido ?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="update_status">Actualizar estado del pedido</string>
+    <string name="map_open_message">Quieres abrir el mapa de Google para recibir el pedido.
+        direccion?</string>
+    <string name="order_number">Numero orden. :\u0020</string>
+    <string name="order_on">Ordered\u0020on\u0020</string>
+    <string name="_name">Name\u0020:\u0020</string>
+    <string name="at">At\u0020</string>
+    <string name="delivery_by">Delivery\u0020by\u0020:\u0020</string>
+    <string name="via">Via\u0020</string>
+    <string name="tx_id">impuesto ID</string>
+    <string name="tx_message">Mensaje</string>
+    <string name="transaction_date_and_time">Date and Time</string>
+    <string name="no_internet_message">Sin conexion a internet!</string>
+    <string name="retry">Reitentar</string>
+    <string name="transaction">Transaccion No. :\u0020</string>
+    <string name="amount_title">Amount\u0020:\u0020</string>
+    <string name="change_password_msg">Debe iniciar sesion nuevamente con las credenciales actualizadas, si esta cambiando la clave.</string>
+    <string name="code">00</string>
+    <string name="forgot_message_hint">Ingrese el numero de movil registrado</string>
+    <string name="recover_pass">Continue</string>
+    <string name="verify_message">Verifique su numero registrado y restablezca su clave. </string>
+    <string name="reset_password">Restablecer la clave</string>
+    <string name="resend">Reenviar</string>
+    <string name="please_type_verification_code_sent_to">Ingrese OTP enviado por SMS en </string>
+    <string name="otp">OTP</string>
+    <string name="verify">Verificar</string>
+    <string name="reset_pass_text">Restablecer su clave</string>
+    <string name="show_more">Mostrar mas</string>
+    <string name="enter_otp">Ingrese OTP</string>
+    <string name="non_user_msg">El numero de movil no esta registrado, pongase en contacto con\u0020</string>
+    <string name="contact_person">\u0020persona de contacto.</string>
+    <string name="call_to_customer">Llamar al cliente</string>
+    <string name="mobiletitle">Movil\u0020:\u0020</string>
+
+</resources>

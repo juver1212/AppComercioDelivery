@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "264393141457",
+    "firebase_url": "https://innovation-techology.firebaseio.com",
+    "project_id": "innovation-techology",
+    "storage_bucket": "innovation-techology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264393141457:android:f19d4f0dc606282e9569f0",
+        "android_client_info": {
+          "package_name": "com.innovation.techology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264393141457-781nn6mjnpfjvd3vi7ajbt9qads9g0b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZkiGT67BHXWHuZZqdsz4sU5QQeLX584c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264393141457-781nn6mjnpfjvd3vi7ajbt9qads9g0b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264393141457:android:db0f0cb4ef36e62f9569f0",
+        "android_client_info": {
+          "package_name": "delivery.innovation.techology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264393141457-781nn6mjnpfjvd3vi7ajbt9qads9g0b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZkiGT67BHXWHuZZqdsz4sU5QQeLX584c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264393141457-781nn6mjnpfjvd3vi7ajbt9qads9g0b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
